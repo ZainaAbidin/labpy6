@@ -8,6 +8,9 @@ Selain itu, program ini memiliki menu interaktif yang memungkinkan pengguna memi
 Data yang dimasukkan hanya disimpan selama program berjalan, sehingga tidak akan tersimpan secara permanen. Program ini cocok untuk latihan sederhana dalam pengelolaan data menggunakan Python.
 
 
+#FLOWCHART PRAKTIKUM 6
+
+![Cuplikan layar 2024-12-01 133319](https://github.com/user-attachments/assets/f3cad921-7fe1-4877-ab37-933b827a867c)
 
 
 
